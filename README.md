@@ -1,4 +1,4 @@
-# Compression Algorithms Repository
+# Learn Compression Algorithms with Python
 
 This repository demonstrates various prominent compression algorithms implemented in Python. Each method includes a detailed implementation that shows the compression process step-by-step. I have avoided using external compression libraries to maximize educational value.
 
@@ -106,15 +106,6 @@ The generated CSV report includes:
 - Compressed size for each method
 - Compression ratio for each method
 - Best performing method for each file
-
-## Test Files
-
-The repository includes various file types to demonstrate algorithm performance:
-- PDF documents
-- Images (JPEG, PNG)
-- Video (MP4)
-- Audio (M4A)
-- Text files (HTML, TXT)
 
 ## Educational Notes
 
