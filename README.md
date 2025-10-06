@@ -2,7 +2,7 @@
 
 This repository demonstrates various prominent compression algorithms implemented in Python. Each method includes a detailed implementation that shows the compression process step-by-step. I have avoided using external compression libraries to maximize educational value.
 
-# Background
+## Background
 
 I originally wrote this repository to test my own ability to describe, articulate and dissect various popular compression algorithms and their components while practicing for coding job interviews. I decided it may be useful to others, thus I cleaned, polished and published it to Github.
 
